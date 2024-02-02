@@ -17,8 +17,8 @@
 		"role": "maintainer"
 	}],
 	"resources": [{
-		"name": "geoip2-ipv4_v6",
-		"path": "data/geoip2-ipv4_v6.csv",
+		"name": "geoip2-ipv4",
+		"path": "data/geoip2-ipv4.csv",
 		"format": "csv",
 		"mediatype": "text/csv",
 		"schema": {
