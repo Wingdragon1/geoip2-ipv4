@@ -2,7 +2,7 @@ Database of IPv4 address networks with their respective geographical location.
 
 ## Data
 
-Based on GeoLite2 Country Free Downloadable Databases as of Apr 21, 2015 http://dev.maxmind.com/geoip/geoip2/geolite2/
+Based on GeoLite2 Country Free Downloadable Databases as of Jan 30, 2024 http://dev.maxmind.com/geoip/geoip2/geolite2/
 
 Two files were used to generate this dataset: 
 
