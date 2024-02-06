@@ -18,7 +18,7 @@ with the following considerations:
 
 ## Preparation
 
-Original CSVs were imported into a MySQL database, then with a script an additional CSV was created combining Country names, locations and IPs. 
+Original CSVs were imported into MS Excel, then with the use of Power Query Editor Continent and Country names were created based on matching geoname_id's.
 
 ## License
 
